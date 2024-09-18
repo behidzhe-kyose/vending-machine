@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "Coca Cola",
+        "price": 5,
+        "imageUrl": "https://icons.veryicon.com/png/Food%20%26%20Drinks/Coke%20%26%20Pepsi%20Can/Coca%20Cola%20Can.png"
+    },
+    {
+        "id": 2,
+        "name": "Pepsi",
+        "price": 6,
+        "imageUrl": "https://icons.veryicon.com/png/Food%20%26%20Drinks/Coke%20%26%20Pepsi%20Can/Pepsi%20Can.png"
+    },
+    {
+        "id": 3,
+        "name": "Fanta Orange",
+        "price": 7,
+        "imageUrl": "https://pngfre.com/wp-content/uploads/Fanta-10.png"
+    },
+    {
+        "id": 4,
+        "name": "Fanta Mezzo",
+        "price": 8,
+        "imageUrl": "https://pngfre.com/wp-content/uploads/Fanta-23.png"
+    },
+    {
+        "id": 5,
+        "name": "7 Up",
+        "price": 9,
+        "imageUrl": "https://pngfre.com/wp-content/uploads/7-Up-15.png"
+    },
+    {
+        "id": 6,
+        "name": "Sprite",
+        "price": 11,
+        "imageUrl": "https://pngfre.com/wp-content/uploads/Sprite-17.png"
+    },
+    {
+        "id": 7,
+        "name": "Red Bull",
+        "price": 15,
+        "imageUrl": "https://pngfre.com/wp-content/uploads/Red-Bull-13.png"
+    },
+    {
+        "id": 8,
+        "name": "Monster",
+        "price": 18,
+        "imageUrl": "https://pngfre.com/wp-content/uploads/monster-energy-drink-poster.png"
+    },
+    {
+        "id": 9,
+        "name": "Starbucks coffee",
+        "price": 25,
+        "imageUrl": "https://pngfre.com/wp-content/uploads/Starbucks-15.png"
+    },
+    {
+        "id": 10,
+        "name": "Starbucks pink latte",
+        "price": 27,
+        "imageUrl": "https://pngfre.com/wp-content/uploads/Starbucks-8.png"
+    },
+    {
+        "id": 11,
+        "name": "Starbucks Latte",
+        "price": 28,
+        "imageUrl": "https://pngfre.com/wp-content/uploads/Starbucks-7.png"
+    },
+    {
+        "id": 12,
+        "name": "Peanut",
+        "price": 37,
+        "imageUrl": "https://pngfre.com/wp-content/uploads/Peanut-12.png"
+    },
+    {
+        "id": 13,
+        "name": "Cashew",
+        "price": 46,
+        "imageUrl": "https://pngfre.com/wp-content/uploads/cashew-poster.png"
+    },
+    {
+        "id": 14,
+        "name": "Almond",
+        "price": 52,
+        "imageUrl": "https://pngfre.com/wp-content/uploads/almond-10.png"
+    },
+    {
+        "id": 15,
+        "name": "Walnut",
+        "price": 58,
+        "imageUrl": "https://pngfre.com/wp-content/uploads/Walnut-10.png"
+    }
+    
+]
