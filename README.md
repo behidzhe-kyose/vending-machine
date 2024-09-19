@@ -30,3 +30,5 @@ npm start
 
 ### Note
 Accepted coin denominations - $1, $2, $5, $10, $20, $50, $100
+
+I added form state to redux only for representing more slices In Redux
